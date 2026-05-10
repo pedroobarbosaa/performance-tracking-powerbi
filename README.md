@@ -73,7 +73,7 @@ The dataset simulates a retail company's order data across multiple countries, c
 **Pedro Barbosa**
 Data Analyst | Python • SQL • Power BI • ETL • Data Visualization | C1 English
 
-[LinkedIn](https://linkedin.com/in/pedrobarbosafreire) • [GitHub](https://github.com/pedrobarbosa)
+[LinkedIn](https://linkedin.com/in/pedrobarbosafreire) • [GitHub](https://github.com/pedroobarbosaa)
 
 ---
 
